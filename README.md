@@ -43,7 +43,8 @@ npm run test
 
 ### 프로그램 실행 결과
 
-![image](https://github.com/LIN-KHU/javascript-newsviewer/assets/75254185/2cb98506-9260-4ed4-bd3b-7e6edadb84b5)
+![image](https://github.com/LIN-KHU/javascript-newsviewer/assets/75254185/5f546069-bb86-4b30-b6f4-510843b6494b)
+
 
 🎱 프로그래밍 요구사항
 
