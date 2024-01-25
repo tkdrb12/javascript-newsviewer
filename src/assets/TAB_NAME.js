@@ -1,31 +1,31 @@
 const TAP_NAME = [
   {
-    ko: "전체보기",
-    en: "all",
+    name: '전체보기',
+    value: 'all',
   },
   {
-    ko: "경영",
-    en: "business",
+    name: '경영',
+    value: 'business',
   },
   {
-    ko: "연예",
-    en: "entertainment",
+    name: '연예',
+    value: 'entertainment',
   },
   {
-    ko: "건강",
-    en: "health",
+    name: '건강',
+    value: 'health',
   },
   {
-    ko: "과학",
-    en: "science",
+    name: '과학',
+    value: 'science',
   },
   {
-    ko: "스포츠",
-    en: "sports",
+    name: '스포츠',
+    value: 'sports',
   },
   {
-    ko: "기술",
-    en: "technology",
+    name: '기술',
+    value: 'technology',
   },
 ];
 
